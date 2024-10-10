@@ -1,3 +1,14 @@
-Дана разметка с десятью кнопками. На каждой кнопке висит обработчик события клика - вызов функции guessNum с передачей в нее конкретного числового значения.
+# Guess number
 
-Задача: описать функционал функции guessNum, который будет сообщать пользователю информацию о победе или проигрыше, а также о том, что игра окончена в случае, если количество попыток (5 доступных) исчерпано.
+## Description 
+Simple game, you should guess the number
+
+## Stack
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" height="40" alt="javascript logo"  />
+
+</p>
